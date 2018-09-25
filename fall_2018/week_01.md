@@ -1,21 +1,12 @@
 ## Last Week's Accomplishments
-
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+Meeting to determine front end and back end teams and framework;
+working on JS, ReactJs tutorials
 
 ## This Week's Plan
-
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+Work on the skeleton of the front end
 
 ## Anything Blocking?
-
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+Interview, coding challenges, homework and first round of exams
 
 ## Notes
 
